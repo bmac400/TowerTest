@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Bryan McCaffery",
+	"description":	{
+		"":	"Make simple ascending tower\t\t\t\t"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
